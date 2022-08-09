@@ -38,6 +38,12 @@ Now you can go and play with it as you wish :smile:
 ## Show your support
 Give a ⭐️ if you like this project!
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/TuyishimireEric/math_magician/issues).
+
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
