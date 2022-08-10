@@ -28,11 +28,6 @@ input {
   cursor: pointer;
 }
 
-input::placeholder {
-  color: #fff;
-  opacity: 1;
-}
-
 input:hover {
   filter: brightness(90%);
 }
@@ -41,11 +36,15 @@ input:hover {
   grid-column: 1 / span 2;
 }
 
-.number {
-  text-align: right;
+.text {
+  height: 7vh;
   background-color: #858694;
   color: #fff;
   font-size: large;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 6px;
 }
 
 .sign {
