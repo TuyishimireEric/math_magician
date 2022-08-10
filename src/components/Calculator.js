@@ -1,30 +1,46 @@
 import React from 'react';
+import calculate from '../logic/calculator';
 
 export default class Calculator extends React.PureComponent {
+  constructor(props) {
+    super(props);
+    this.state = {
+      total: 0,
+      next: null,
+      operation: null,
+    };
+  }
+
   render() {
+    const clickListener = (e) => {
+      const result = calculate(this.state, e.target.value);
+      this.setState(result);
+    };
+    const { total, next, operation } = this.state;
+    const result = `${total || ''}${operation || ''}${next || ''}`;
     return (
       <form action="#">
-        <input type="text" placeholder="0" className="number" />
+        <div className="text">{result || '0'}</div>
         <div className="calc-btn">
-          <input type="button" value="AC" />
-          <input type="button" value="+/-" />
-          <input type="button" value="%" />
-          <input type="button" value=":" className="sign" />
-          <input type="button" value="7" />
-          <input type="button" value="8" />
-          <input type="button" value="9" />
-          <input type="button" value="x" className="sign" />
-          <input type="button" value="4" />
-          <input type="button" value="5" />
-          <input type="button" value="6" />
-          <input type="button" value="-" className="sign" />
-          <input type="button" value="1" />
-          <input type="button" value="2" />
-          <input type="button" value="3" />
-          <input type="button" value="+" className="sign" />
-          <input type="button" value="0" className="zero" />
-          <input type="button" value="." />
-          <input type="button" value="=" className="sign" />
+          <input type="button" value="AC" onClick={clickListener} />
+          <input type="button" value="+/-" onClick={clickListener} />
+          <input type="button" value="%" onClick={clickListener} />
+          <input type="button" value="÷" onClick={clickListener} className="sign" />
+          <input type="button" value="7" onClick={clickListener} />
+          <input type="button" value="8" onClick={clickListener} />
+          <input type="button" value="9" onClick={clickListener} />
+          <input type="button" value="x" onClick={clickListener} className="sign" />
+          <input type="button" value="4" onClick={clickListener} />
+          <input type="button" value="5" onClick={clickListener} />
+          <input type="button" value="6" onClick={clickListener} />
+          <input type="button" value="-" onClick={clickListener} className="sign" />
+          <input type="button" value="1" onClick={clickListener} />
+          <input type="button" value="2" onClick={clickListener} />
+          <input type="button" value="3" onClick={clickListener} />
+          <input type="button" value="+" onClick={clickListener} className="sign" />
+          <input type="button" value="0" onClick={clickListener} className="zero" />
+          <input type="button" value="." onClick={clickListener} />
+          <input type="button" value="=" onClick={clickListener} className="sign" />
         </div>
       </form>
     );
