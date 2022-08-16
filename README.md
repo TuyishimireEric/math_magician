@@ -3,6 +3,7 @@
 
 # Math Magicians: setup
 This is the first project of the Math Magicians application. i have set up the environment and tools needed to develop a React application. 
+I have created a full website for the Math magicians app, consisting of several pages and using the components you already created.
 
 ## Built With 
 
