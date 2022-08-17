@@ -11,13 +11,7 @@ I have created a full website for the Math magicians app, consisting of several 
 - Vs code
 
 ## Project Photo
-![Math Magician](./image/pic.png)
-
-
-## Page Link 
-
-[live link]()
-
+![Math Magician](./pic.png)
 
 ## Getting Started
 To get a local copy of this exercice, Please follow these simple example steps.
