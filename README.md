@@ -1,7 +1,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Magicians: setup
+# Math Magicians: Full Website
 This is the first project of the Math Magicians application. i have set up the environment and tools needed to develop a React application. 
 I have created a full website for the Math magicians app, consisting of several pages and using the components you already created.
 
@@ -9,6 +9,10 @@ I have created a full website for the Math magicians app, consisting of several 
 
 - React Js
 - Vs code
+
+## Project Photo
+![Math Magician](./image/pic.png)
+
 
 ## Page Link 
 

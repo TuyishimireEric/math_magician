@@ -10,13 +10,17 @@ export default class App extends React.PureComponent {
     return (
       <>
         <div className="App">
-          <nav className="nav">
-            <Link className="a" to="/">Home</Link>
-            <Link className="a" to="/Calculator">Calculator</Link>
-            <Link className="a" to="/Quote">Quote</Link>
-          </nav>
-          <section className="section">
+          <div className="top">
             <h1 className="title">Math magician</h1>
+            <nav className="nav">
+              <Link className="a" to="/">Home</Link>
+              <hr />
+              <Link className="a" to="/Calculator">Calculator</Link>
+              <hr />
+              <Link className="a" to="/Quote">Quote</Link>
+            </nav>
+          </div>
+          <section className="section">
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="Calculator" element={<Calculator />} />
