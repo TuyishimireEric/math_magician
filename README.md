@@ -13,6 +13,11 @@ I have created a full website for the Math magicians app, consisting of several 
 ## Project Photo
 ![Math Magician](./pic.png)
 
+## Deployment Links
+
+- [eric-calculator](https://eric-calculator.herokuapp.com/)
+- [calculator-eric](https://calculator-eric.netlify.app/Calculator)
+
 ## Getting Started
 To get a local copy of this exercice, Please follow these simple example steps.
 
@@ -32,7 +37,10 @@ Now you can go and play with it as you wish :smile:
 
 👤 Eric TuyishimireEric
 
-. Github: @TuyishimireEric
+- GitHub: [@TuyishimireEric](https://github.com/TuyishimireEric)
+- LinkedIn: [@TuyishimireEric](https://www.linkedin.com/in/Tuyishimire-Eric-32426b21a/)
+- E-mail: [tuyishimireericc@gmail.com](tuyishimireericc@gmail.com)
+
 
 ## Show your support
 Give a ⭐️ if you like this project!
