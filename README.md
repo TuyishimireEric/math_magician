@@ -39,7 +39,7 @@ Now you can go and play with it as you wish :smile:
 
 - GitHub: [@TuyishimireEric](https://github.com/TuyishimireEric)
 - LinkedIn: [@TuyishimireEric](https://www.linkedin.com/in/Tuyishimire-Eric-32426b21a/)
-- E-mail: <a href="mailto:tuyishimireericc@gmail.com">Email Us</a>
+- E-mail: <a href="mailto:tuyishimireericc@gmail.com">tuyishimireericc@gmail.com</a>
 
 
 ## Show your support
