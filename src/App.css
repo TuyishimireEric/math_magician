@@ -138,6 +138,7 @@ input:hover {
   justify-content: flex-end;
   padding: 14px;
   border-bottom: 1px solid black;
+  overflow: hidden;
 }
 
 .sign {
