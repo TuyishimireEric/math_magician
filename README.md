@@ -16,7 +16,7 @@ I have created a full website for the Math magicians app, consisting of several 
 ## Deployment Links
 
 - [eric-calculator](https://eric-calculator.herokuapp.com/)
-- [calculator-eric](https://calculator-eric.netlify.app/Calculator)
+- [calculator-eric](https://calculator-eric.netlify.app/)
 
 ## Getting Started
 To get a local copy of this exercice, Please follow these simple example steps.
