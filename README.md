@@ -1,9 +1,8 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Magicians: Full Website
-This is the first project of the Math Magicians application. i have set up the environment and tools needed to develop a React application. 
-I have created a full website for the Math magicians app, consisting of several pages and using the components you already created.
+# Math Magicians
+This is a React project that provide users to do simple calculations.
 
 ## Built With 
 
@@ -23,7 +22,7 @@ To get a local copy of this exercice, Please follow these simple example steps.
 
 1. Clone this repository or download the Zip folder:
 
-**``git@github.com:TuyishimireEric/JavaScript-group-capstone.git``**
+**``git@github.com:TuyishimireEric/math_magician.git``**
 
 2. Navigate to the location of the folder in your machine:
 
