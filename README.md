@@ -29,6 +29,9 @@ To get a local copy of this exercice, Please follow these simple example steps.
 **``you@your-Pc-name:~$ cd <folder>``**
 
 3. Press Enter to navigate to your local clone.
+4. Open terminal and run this command npm install
+5. after finishing step 5, run this command npm start to run the project
+6. for testing components, you can run: npm run test.
 
 Now you can go and play with it as you wish :smile:
 
@@ -37,7 +40,7 @@ Now you can go and play with it as you wish :smile:
 👤 Eric TuyishimireEric
 
 - GitHub: [@TuyishimireEric](https://github.com/TuyishimireEric)
-- LinkedIn: [@TuyishimireEric](https://www.linkedin.com/in/Tuyishimire-Eric-32426b21a/)
+- LinkedIn: [@TuyishimireEric](https://www.linkedin.com/in/TuyishimireEric/)
 - E-mail: <a href="mailto:tuyishimireericc@gmail.com">tuyishimireericc@gmail.com</a>
 
 
