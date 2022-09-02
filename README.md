@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Math Magicians
-This is a React project that provide users to do simple calculations.
+A calculator is a machine that allows people to do math operations more easily this web calculator is able to perform Basic calculations such as addition, subtraction, multiplication, and division mathematical calculations.
 
 ## Built With 
 
