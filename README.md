@@ -13,9 +13,7 @@ A calculator is a machine that allows people to do math operations more easily t
 ![Math Magician](./pic.png)
 
 ## Deployment Links
-
-- [eric-calculator](https://eric-calculator.herokuapp.com/)
-- [calculator-eric](https://calculator-eric.netlify.app/)
+- [ericalculator](https://ericalculator.netlify.app/)
 
 ## Getting Started
 To get a local copy of this exercice, Please follow these simple example steps.
